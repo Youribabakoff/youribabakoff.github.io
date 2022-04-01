@@ -1,0 +1,22 @@
+body {
+    font-family: "Chivo", sans-serif;
+    font-size: 18px;
+    color: #212529;
+    width: 80%;
+    line-height: 30px;
+}
+
+#home-content {
+    max-width: 600px;
+    display: block;
+    margin: 150px auto;
+}
+
+#home-body {
+    padding-bottom: 25px;
+}
+
+a {
+    color:#212529;
+    text-underline-offset: 3px;
+}
